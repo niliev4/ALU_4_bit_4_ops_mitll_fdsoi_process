@@ -5,4 +5,4 @@ operations.
 3) 4 bit 2’s complimentary
 4) 4bitAddtraction
 
-CMOS process used :  mitll_fdsoi. Done in Cadence IC5141 Virtuoso schematic, Spectre sim, and LVS ver 5.1.0. prop.xx is a CDB database.
+CMOS process used :  mitll_fdsoi. Done in Cadence IC5141 Virtuoso schematic, Spectre sim, and LVS ver 5.1.0. prop.xx is the CDB database.
